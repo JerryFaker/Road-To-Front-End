@@ -1,5 +1,7 @@
 # HTML Basics
 
+[TOC]
+
 ## Elements and Structure
 
 ### HTML
@@ -193,7 +195,7 @@ The `<strong>` element highlights important, serious, or urgent text and browser
 
 ### Emphasis Element `<em>`
 
-The <em> emphasis element emphasizes text and browsers will usually italicize the emphasized text by default.
+The `<em>` emphasis element emphasizes text and browsers will usually italicize the emphasized text by default.
 
 ```html
 <p>This <em>word</em> will be emphasized in italics.</p>
